@@ -1,0 +1,13 @@
+C:\Users\Lord Aldi\Documents\C# Language\AppConsole\BillPrima\BillPrima\bin\Debug\netcoreapp3.1\BillPrima.exe
+C:\Users\Lord Aldi\Documents\C# Language\AppConsole\BillPrima\BillPrima\bin\Debug\netcoreapp3.1\BillPrima.deps.json
+C:\Users\Lord Aldi\Documents\C# Language\AppConsole\BillPrima\BillPrima\bin\Debug\netcoreapp3.1\BillPrima.runtimeconfig.json
+C:\Users\Lord Aldi\Documents\C# Language\AppConsole\BillPrima\BillPrima\bin\Debug\netcoreapp3.1\BillPrima.runtimeconfig.dev.json
+C:\Users\Lord Aldi\Documents\C# Language\AppConsole\BillPrima\BillPrima\bin\Debug\netcoreapp3.1\BillPrima.dll
+C:\Users\Lord Aldi\Documents\C# Language\AppConsole\BillPrima\BillPrima\bin\Debug\netcoreapp3.1\BillPrima.pdb
+C:\Users\Lord Aldi\Documents\C# Language\AppConsole\BillPrima\BillPrima\obj\Debug\netcoreapp3.1\BillPrima.csprojAssemblyReference.cache
+C:\Users\Lord Aldi\Documents\C# Language\AppConsole\BillPrima\BillPrima\obj\Debug\netcoreapp3.1\BillPrima.AssemblyInfoInputs.cache
+C:\Users\Lord Aldi\Documents\C# Language\AppConsole\BillPrima\BillPrima\obj\Debug\netcoreapp3.1\BillPrima.AssemblyInfo.cs
+C:\Users\Lord Aldi\Documents\C# Language\AppConsole\BillPrima\BillPrima\obj\Debug\netcoreapp3.1\BillPrima.csproj.CoreCompileInputs.cache
+C:\Users\Lord Aldi\Documents\C# Language\AppConsole\BillPrima\BillPrima\obj\Debug\netcoreapp3.1\BillPrima.dll
+C:\Users\Lord Aldi\Documents\C# Language\AppConsole\BillPrima\BillPrima\obj\Debug\netcoreapp3.1\BillPrima.pdb
+C:\Users\Lord Aldi\Documents\C# Language\AppConsole\BillPrima\BillPrima\obj\Debug\netcoreapp3.1\BillPrima.genruntimeconfig.cache
